@@ -38,6 +38,5 @@ padding: 10px;
 
 }
 .active{
-    color:white;
-    background-color: blue ;
+    color:white;rgb(255, 0, 0);
 }
